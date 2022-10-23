@@ -4,7 +4,7 @@ on:
   push:
     branches: master
   schedule:
-    - cron: '51 08 * * *'
+    - cron: '01 16 * * *'
 
 jobs:
   save:
